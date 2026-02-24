@@ -7,7 +7,7 @@ import lombok.NoArgsConstructor;
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
-public class Role {
-    private int id;
-    private String name;
+public class ProductCarModel {
+    private int productId;
+    private int carModelId;
 }
